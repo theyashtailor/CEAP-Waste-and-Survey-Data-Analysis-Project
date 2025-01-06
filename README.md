@@ -1,4 +1,4 @@
-# CEAP Waste Data Analysis Project
+# CEAP Waste Data and Survey Data Analysis Project
 
 ## Project Introduction
 The CEAP Waste Data Analysis project, led by Mind Your Plastic (MYP) and under the leadership of Yash Tailor as the team leader, focuses on combating plastic pollution through educational and cleanup initiatives across Canada. This comprehensive project evaluates the impact of the Circular Economy Ambassador Program (CEAP) and its role in fostering sustainable waste management practices.
